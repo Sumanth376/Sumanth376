@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Data Analytics**
 
-- 📝 I regularly write articles on [https://manage.wix.com/dashboard/ce330a10-e58e-4c34-9e4f-dcce913a994b/blog/overview?referralInfo=sidebar](https://manage.wix.com/dashboard/ce330a10-e58e-4c34-9e4f-dcce913a994b/blog/overview?referralInfo=sidebar)
+- 📝 I regularly write articles on [[https://manage.wix.com/dashboard/ce330a10-e58e-4c34-9e4f-dcce913a994b/blog/overview?referralInfo=sidebar](https://sumanthh376.wixsite.com/portfolio)](https://manage.wix.com/dashboard/ce330a10-e58e-4c34-9e4f-dcce913a994b/blog/overview?referralInfo=sidebar)
 
 - 💬 Ask me about **Data science**
 
